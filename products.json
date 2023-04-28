@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Dragon Ball 1",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Dragon Ball 2",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "Dragon Ball 3",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 3
+  },
+  {
+    "title": "Dragon Ball 4",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 4
+  },
+  {
+    "title": "Dragon Ball 5",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "Dragon Ball 6",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 6
+  },
+  {
+    "title": "Dragon Ball 7",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 7
+  },
+  {
+    "title": "Dragon Ball 8",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 8
+  },
+  {
+    "title": "Dragon Ball 9",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 9
+  },
+  {
+    "title": "Dragon Ball 10",
+    "description": "Manga de Accion",
+    "price": 1800,
+    "thumbnail": "Sin imagen",
+    "code": "q1w2e3",
+    "stock": 10,
+    "id": 10
+  }
+]
